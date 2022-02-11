@@ -2,4 +2,4 @@
 
 ***experimental***
 
-This is a testing platform for a club.
+This is a testing platform for a club github pages website.
