@@ -1,4 +1,5 @@
 # GLHSC-P
 
-***experimental*** /n
+***experimental***
+
 This is a testing platform for a club.
